@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CKEditor Example</title>
     <script src="https://cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script> <!-- Thêm đường dẫn CDN của CKEditor -->
-
 </head>
 
 <body>
